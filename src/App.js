@@ -11,6 +11,7 @@ function App() {
        <h1>hello world</h1>
        <img src='https://picsum.photos/seed/picsum/200/100' alt=''/>
        <img src='https://picsum.photos/seed/picsum/600/600' alt=''/>
+       <img src='https://picsum.photos/seed/picsum/600/600' alt=''/>
       </header>
     </div>
   );
