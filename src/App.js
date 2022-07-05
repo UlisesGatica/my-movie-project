@@ -11,7 +11,7 @@ function App() {
        <h1>hello world</h1>
        <img src='https://picsum.photos/seed/picsum/200/100' alt=''/>
        <img src='https://picsum.photos/seed/picsum/200/100' alt=''/>
-       {/* <img src='https://picsum.photos/200/300?grayscale' alt=''/> */}
+       <img src='https://picsum.photos/200/300?grayscale' alt=''/>
 
       </header>
     </div>
