@@ -16,7 +16,7 @@ function App() {
        <p>lorem ip sum</p>
        <p>lorem ip sum</p>
       </header>
-      <p> need to change</p>
+      <p> need to change color to something</p>
     </div>
   );
 }
